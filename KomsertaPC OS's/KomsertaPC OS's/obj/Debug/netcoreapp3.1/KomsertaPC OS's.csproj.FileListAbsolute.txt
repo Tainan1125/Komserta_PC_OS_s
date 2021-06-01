@@ -1,0 +1,20 @@
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\bin\Debug\netcoreapp3.1\KomsertaPC OS's.exe
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\bin\Debug\netcoreapp3.1\KomsertaPC OS's.deps.json
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\bin\Debug\netcoreapp3.1\KomsertaPC OS's.runtimeconfig.json
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\bin\Debug\netcoreapp3.1\KomsertaPC OS's.runtimeconfig.dev.json
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\bin\Debug\netcoreapp3.1\KomsertaPC OS's.dll
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\bin\Debug\netcoreapp3.1\KomsertaPC OS's.pdb
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC OS's.csprojAssemblyReference.cache
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC_OS_s.CadastroCliente.resources
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC_OS_s.ListagemClientes.resources
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC OS's.csproj.GenerateResource.cache
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC OS's.AssemblyInfoInputs.cache
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC OS's.AssemblyInfo.cs
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC OS's.csproj.CoreCompileInputs.cache
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC OS's.dll
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC OS's.pdb
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC OS's.genruntimeconfig.cache
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC_OS_s.CadastroOSa.resources
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC_OS_s.CadastroOS.resources
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC_OS_s.Home.resources
+C:\Users\joaot\source\repos\KomsertaPC OS's\KomsertaPC OS's\obj\Debug\netcoreapp3.1\KomsertaPC_OS_s.ListagemOS.resources
