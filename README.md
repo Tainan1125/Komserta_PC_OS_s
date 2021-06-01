@@ -1,2 +1,2 @@
 # Komserta_PC_OS_s
-Avaliação um POO2-T24
+Avaliação de João Tainan B.um POO2-T24
